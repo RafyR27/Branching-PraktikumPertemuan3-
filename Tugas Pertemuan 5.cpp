@@ -8,6 +8,7 @@ int main(){
     cin>>nilai;
 
     if (nilai>=90 && nilai<=100){
+        cout<<"Selamat! Anda mendapatkan nilai A"<<endl;
     } else if (nilai>= 80 && nilai<= 89){
         cout<<"Anda mendapatkan nilai B"<<endl;
     } else if (nilai>= 70 && nilai<= 79){
